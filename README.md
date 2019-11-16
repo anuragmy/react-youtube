@@ -4,6 +4,8 @@
 
 1) clone 
 
-2) Add your Google Api key in src/api/Youtibe.js 
+2) <code>npm i</code> or <code>yarn add </code> 
 
-3) nom start
+3) Add your Google Api key in src/api/Youtube.js 
+
+4) npm start
