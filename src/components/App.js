@@ -12,7 +12,7 @@ class App extends Component {
   };
 
   componentDidMount() {
-    this.onTermSubmit("vevo");
+    this.onTermSubmit("drake");
   }
 
   onTermSubmit = async term => {
