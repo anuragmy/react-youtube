@@ -1,4 +1,4 @@
-## React Youtube Clone App
+## React Youtube Clone App.
 
 ## To use this project
 
